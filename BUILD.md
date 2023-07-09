@@ -25,7 +25,7 @@
 ### Manual Build/Compile from Source
 - Using g++
     ```console
-    g++ src/main.cpp -o out/yt-dlp-mass-dl
+    g++ src/main.cpp -o out/cpp-practice-project
     ```
 - Using Makefile
     ```console
@@ -36,7 +36,7 @@
 - Manually
     - In Linux
         ```console
-        sudo install 0655 out/yt-dlp-mass-dl /usr/local/bin/yt-dlp-mass-dl
+        sudo install 0655 out/cpp-practice-project /usr/local/bin/cpp-practice-project
         ```
 - Using Makefile
     ```console
@@ -47,7 +47,7 @@
 - Manually
     - In Linux
         ```console
-        sudo rm /usr/local/bin/yt-dlp-mass-dl
+        sudo rm /usr/local/bin/cpp-practice-project
         ```
 - Using Makefile
     ```console
