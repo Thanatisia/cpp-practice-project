@@ -1,4 +1,4 @@
-# C++ practice project - System calls, Command Line Arguments and Pipes
+# C++ practice project
 
 ## Table of Contents
 + [Information](#information)
@@ -29,7 +29,7 @@ Generally, the aim is to create a write-up/documentation repository to reference
 ## Documentation
 ### Synopsis/Syntax
 ```console
-yt-dlp-mass-dl {options} <arguments>
+cpp-practice-project {options} <arguments>
 ```
 
 ### Parameters
@@ -42,12 +42,12 @@ yt-dlp-mass-dl {options} <arguments>
 ### Usage
 - Executing commands
     ```console
-    yt-dlp-mass-dl -e "cmd-1 opts"
+    cpp-practice-project -e "cmd-1 opts"
     ```
 
 - Executing multiple commands
     ```console
-    yt-dlp-mass-dl -e "cmd-1 opts" -e "cmd-2 opts" ...
+    cpp-practice-project -e "cmd-1 opts" -e "cmd-2 opts" ...
     ```
 
 ## Wiki
