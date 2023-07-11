@@ -84,13 +84,13 @@ int main(int argc, char *argv[])
                          * Remove the value from the command list so you go to the next option
                          * - This is equivalent to 'shift 1' in bash shellscripting
                          *   - Must do this for every options
-                         */
                         // Decrement the argc value
                         argc--;
 
                         // Increment the argv pointer
                         argv++;
-                        // update_cli_args(argc, &argv);
+                         */
+                        update_cli_args(argc, &argv);
                     }
                 }
                 else {
