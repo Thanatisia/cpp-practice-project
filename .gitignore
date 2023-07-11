@@ -1,4 +1,8 @@
 # Git ignore
+## Ignore these directories and files
 
-## Ignore these directories
+## General
 out/
+
+## Python-related
+__pycache__/
